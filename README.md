@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Frank
-- 💼 I’m working as a Product Owner.
-- 🌱 I’m currently making videos about Product Design & learning about game development.
+- 🌱 Working on Product Design & Game Development.
+- 🌗 To build dynamic products.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
